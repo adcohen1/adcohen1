@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola, Mi nombre es Alfonso 😁
+Soy estudiante de Ingeniería de Sistemas en la Universidad del Norte, apasionado por la tecnología y siempre dispuesto a aprender cosas nuevas. 
+Me fascina el mundo de la ciberseguridad y el desarrollo de software 🤖. Tambien aprecio los videojuegos y sueño crear los míos propios.
 
-<!--
-**adcohen1/adcohen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi Meta
+Mi meta es convertirme en un ingeniero íntegro, eficiente y eficaz, siempre manteniendo mis valores de excelencia, respeto y honestidad. 🦸‍♂️
+👀 Creo firmemente que la ética es tan importante como el conocimiento en sí mismo.
 
-Here are some ideas to get you started:
+## Habilidades
+* Trabajo en equipo y liderazgo. 👨‍💼
+* Comunicación asertiva. 💬
+* Resolución de conflictos. 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pasatiempos
+En mi tiempo libre me gusta nadar 🏊, apreciar paisajes naturales o urbanos, y viajar a nuevos lugares. 
+💼
+
+#### Tambien disfruto de:
+* Videojuegos. 🎮
+* Leer historias cortas. 📖
+* Juegos de mesa. 🎲
+* Fabricar artesanías. 🖌️
+
+## Contacto
+* adcohen@uninorte.edu.co
